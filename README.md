@@ -1,7 +1,7 @@
 # Virtual-Aquarium
 
 ## Abstract
-**An aquarium is a vivarium of any size having at least one transparent side in which aquatic plants or animals are kept and displayed. Fish-keepers use aquaria to keep fish, invertebrates, amphibians, aquatic reptiles, such as turtles, and aquatic plants. The term "aquarium", coined by English naturalist Philip Henry Gosse, combines the Latin root aqua, meaning water, with the suffix -arium, meaning "a place for relating to".
+**An aquarium is a vivarium of any size having at least one transparent side in which aquatic plants or animals are kept and displayed. Fish-keepers use aquaria to keep fish, invertebrates, amphibians, aquatic reptiles, such as turtles, and aquatic plants. The term "aquarium", coined by English naturalist Philip Henry Gosse, combines the Latin root aqua, meaning water, with the suffix -arium, meaning "a place for relating to".**
 
 **In aquarium we put small small colourful stones. These looks extremely beautiful when light falls upon these.
 
