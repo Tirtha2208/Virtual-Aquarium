@@ -8,3 +8,8 @@
 **We also keep aquatic plant in aquarium.**
 
 **In this project we are trying to implement the real view of aquarium by using Computer graphics. This project gives an opportunity and real feeling of aquarium that we can actually view. We use JavaScript to implement the concept and build the virtual Aquarium. This project made us realize what is the actual use of computer graphics in real life and why it is important.**
+
+
+## Sample Output 
+![SS1 (1)](https://user-images.githubusercontent.com/55202776/110201988-f7ed2580-7e8b-11eb-8e3e-77a5f765b018.jpg)
+
